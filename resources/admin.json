@@ -1,0 +1,7 @@
+{
+  "admins": [
+    { "userId": "75DA73DA2FB8C8AF", "role": "Owner" },
+    { "userId": "12345", "role": "Admin" },
+    { "userId": "67890", "role": "Mod" }
+  ]
+}
